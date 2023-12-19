@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaunBamford
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Software Development and Games Development
+- 🌱 I’m currently learning GDScript
 
 <!---
 ShaunBamford/ShaunBamford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
