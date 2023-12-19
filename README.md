@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaunBamford
+# 👋 Hi, I’m @ShaunBamford
 - 👀 I’m interested in Software Development and Games Development
 - 🌱 I’m currently learning GDScript
 
