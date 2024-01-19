@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ShaunBamford
 - 👀 I’m interested in Software and Games Development
-- 🌱 I’m currently learning GDScript
+- 🌱 I’m currently learning GDScript and PostgreSQL
 
 <!---
 ShaunBamford/ShaunBamford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
