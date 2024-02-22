@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaun Bamford</h1>
 <h3 align="center">An aspiring software developer based in England</h3>
 
-- 🔭 I’m currently working on [A discord moderation bot](https://github.com/ShaunBamford/ModerationBot)
+- 🔭 I’m currently working on [learning Javascript](https://github.com/ShaunBamford/Javascript)
 
-- 🌱 I’m currently learning **PostgresSQL and GDScript**
+- 🌱 I’m currently learning **PostgresSQL and Javascript**
 
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/shaun-b-280097254/)
 
